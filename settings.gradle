@@ -1,0 +1,2 @@
+rootProject.name='Calificaciones'
+include ':app'
